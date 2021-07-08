@@ -1,2 +1,2 @@
 # DjangoProject-CalculatorApp
-Building calculator app using Django web Framework.
+Building calculator app and voting app using Django web Framework.
